@@ -1,2 +1,2 @@
 # DMML2
-Image processing
+Sentimental analysis of memetion dataset and classify them accordingly using image processing.
